@@ -75,5 +75,7 @@ The project includes energy calculations:
 - Frequency domain energy verification
 - Parseval's theorem validation
 
+## Report
+[View Report](Signals-Project/report/Signals_Poject_Report.pdf)
 ## Author
 Omar Alashry
