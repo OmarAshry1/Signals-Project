@@ -76,6 +76,6 @@ The project includes energy calculations:
 - Parseval's theorem validation
 
 ## Report
-[View Report](Signals-Project/report/Signals_Poject_Report.pdf)
+[View Report](Signals-Project/report/Signals_Project_Report.pdf)
 ## Author
 Omar Alashry
